@@ -1,0 +1,24 @@
+.topbar{
+    width: 100%;
+    height: 30px;
+    display: flex;
+}
+
+.topbar-sol{
+    width: 60%;
+    height: 30px;
+    background-color: aqua;
+}
+
+.topbar-sag{
+    width: 40%;
+    height: 30px;
+    background-color: antiquewhite;
+}
+
+.kesik{
+    width: 40%;
+    background-color: antiquewhite;
+    height: 30px;
+    transform: skewX(-45deg) translateX(-15px);
+}
